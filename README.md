@@ -1,8 +1,7 @@
-<center>
 <b>Jordan Pessman
-<hr>  
+<hr>
 <b>JS | HTML | CSS | MYSQL | NODE.JS
-</center>
+<br>
   
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanPessman&show_icons=true&theme=cobalt)
 <br>
