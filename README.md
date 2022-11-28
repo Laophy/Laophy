@@ -1,6 +1,6 @@
 <b>Laophy
 <hr>
-<b>JS | HTML | CSS | MYSQL | NODE.JS
+<b>REACT | NODE | MONGODB | ELECTRON | HTML | CSS
 <br>
 <br>
   
